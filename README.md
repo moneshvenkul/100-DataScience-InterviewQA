@@ -795,14 +795,5 @@ print(fit.support_)
 ```
 <br>
 
-
-
-#### Explore all 100 answers here 👉 [Devinterview.io - Data Scientist](https://devinterview.io/questions/machine-learning-and-data-science/data-scientist-interview-questions)
-
-<br>
-
-<a href="https://devinterview.io/questions/machine-learning-and-data-science/">
-<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fmachine-learning-and-data-science-github-img.jpg?alt=media&token=c511359d-cb91-4157-9465-a8e75a0242fe" alt="machine-learning-and-data-science" width="100%">
-</a>
 </p>
 
